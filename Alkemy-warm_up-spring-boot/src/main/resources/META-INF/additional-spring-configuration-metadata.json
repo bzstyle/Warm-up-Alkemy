@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtExpirationMs'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  },
+  {
+    "name": "alkemy.warmup.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'alkemy.warmup.api.jwtSecret'"
+  }
+]}
